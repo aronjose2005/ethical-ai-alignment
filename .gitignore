@@ -4,3 +4,4 @@ __pycache__/
 *.log
 src/holographic_ui/node_modules/
 src/holographic_ui/build/
+venv/
