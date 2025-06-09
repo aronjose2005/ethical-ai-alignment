@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.log
+src/holographic_ui/node_modules/
+src/holographic_ui/build/
